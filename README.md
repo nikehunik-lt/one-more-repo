@@ -1,3 +1,3 @@
 # one-more-repo
 Hello world
-drom new branch
+from new branch
